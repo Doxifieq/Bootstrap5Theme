@@ -1,0 +1,25 @@
+.bg-orange {
+    background-color: #ff5c2b;
+}
+
+.border-orange {
+    border: 1px solid #ff5c2b;
+}
+
+.header-h2-text-color {
+    color: rgba(255, 255, 255, 0.83);
+}
+
+.header-a-text-color {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.bg-gray {
+    background-color: #e6e6e6;
+}
+
+.carousel-indicators button {
+    border-radius: 50%;
+    width: 12px !important;
+    height: 12px !important;
+}
